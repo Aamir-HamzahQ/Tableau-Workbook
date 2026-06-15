@@ -1,4 +1,4 @@
-# Tableau-and-Power-BI-Workbook
+# Tableau-Workbook
 # 🌍 Tableau Data Visualisation Project — Data Technician Bootcamp
 
 This repository contains my Tableau project completed during the **Data Technician Bootcamp**, where I explored global health, retail, and demographic datasets to build interactive dashboards and communicate insights through data storytelling.
